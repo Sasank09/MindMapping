@@ -1,0 +1,66 @@
+{
+  "About": {
+    "paragraph1": "A Mind Map is an easy way to brainstorm thoughts organically without worrying about order and structure. It allows you to visually structure your ideas to help with analysis and recall.",
+    "paragraph2": "A tool to representing tasks, words, concepts, or items linked to visually and arranged around a central concept or subject using a non-linear graphical layout that allows the user to build an intuitive framework around a central concept. A Mind Map can turn a long list of monotonous information into a colorful, memorable and highly organized diagram that works in line with your brain's natural way of doing things."
+  },
+  "Features": [
+    {
+      "icon": "fa fa-user-plus fa-lg",
+      "title": "Login/Register",
+      "text": "Start creating your own mind-maps by registering & login to your account"
+    },
+    {
+      "icon": "fa fa-lightbulb fa-lg",
+      "title": "Visualize Your ideas",
+      "text": "A visualization diagram tool that allows you to explore a central idea, and all of its related topic."
+    },
+    {
+      "icon": "fa fa-magic fa-lg",
+      "title": "Modification of Mappings",
+      "text": "Provides a way to reorganize and re-link the ideas in a graphical way to represent around a certain concept."
+    },
+    {
+      "icon": "fa fa-user-shield fa-lg",
+      "title": "JWT Authentication",
+      "text": "A token-based stateless authentication mechanism and are digitally signed using HMAC + SHA256."
+    }
+  ],
+  "Team": [
+    {
+      "name": "Joshua Matta",
+      "job": "JXM54350"
+    },
+    {
+      "name": "Naveen Reddy Baddigam",
+      "job": "NXB05040"
+    },
+    {
+      "name": "Ooha Challagolla",
+      "job": "OXC35210"
+    },
+    {
+      "name": "Shashikanth Reddy Gade",
+      "job": "PXG32080"
+    },
+    {
+      "name": "Bhanu Prakash Gadupudi",
+      "job": "BXG82070"
+    },
+    {
+      "name": "Pavan Gullapalli",
+      "job": "PXG55010"
+    },
+    {
+      "name": "Sasank Tipparaju",
+      "job": "VXT88380"
+    },
+    {
+      "name": "Hruthik Pulluri",
+      "job": "HXP28560"
+    },
+    {
+      "name": "Shiva Valavala",
+      "job": "VXV43710"
+    }
+  ]
+}

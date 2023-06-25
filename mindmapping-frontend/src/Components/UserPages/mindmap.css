@@ -1,0 +1,17 @@
+.mind-elixir-toolbar.lt {
+    width: 40px;
+}
+
+.map-container .map-canvas me-root {
+    cursor: pointer;
+}
+.mind-elixir .context-menu .menu-list {
+    width:175px;
+}
+Button{
+    z-index: 1000;
+}
+
+Button:hover{
+    cursor: pointer;
+}
