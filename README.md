@@ -8,9 +8,9 @@
 ## Configuration and Setup
 
 Technologies Utilized:
-- • Frontend: ReactJS, CSS, JavaScript, Bootstrap
-- • Backend: Spring Boot (Spring Security + JWT Authentication)
-- • Database: db4free.net - used online resource MySQL detabase
+- Frontend: React.js, Redux, CSS(Bootstrap), Javascript, Axios(API Calls)
+- Backend: Spring Boot, REST API's (Spring Security + JWT Authentication)
+- Database: db4free.net - used online resource MySQL detabase
 
 NOTE: db4free.net is a testing service which means it is not suitable for production. There can be outages, data loss and security features do not meet the standards which you expect from a professional data hosting provider. If you need a MySQL database for production use, please do not use db4free.net!
 
